@@ -16,3 +16,8 @@ compose install # Composer command to install project dependancies
 
 php artisan key:generate # Generate laravel project encryption key
 ```
+
+Run migration:
+```bash
+php artisan migrate
+```
